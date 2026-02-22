@@ -12,7 +12,7 @@ Desktop query tool with a zTOAD-like UI and pluggable execution backends.
 - SQL parsing + validation for RFC mode using `sqlglot`
 - **Complex WHERE alert** when using RFC_READ_TABLE (joins/subqueries/ORs/LIKE/IN/etc.)
 
-> Note: HANA runner is included as a scaffold and can be enabled once your credentials/SSO approach is decided.
+> Note: HANA runner is included as a scaffold which will be enabled on subsequent versions once the credentials/SSO approach is developed.
 
 ## Install
 
