@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "name": "SMP-100 (SSO)",
+      "rfc": {
+        "system": "SMP",
+        "client": "100",
+        "sysnr": "00",
+        "ashost": "",
+        "lang": "EN"
+      },
+      "hana": {
+        "enabled": false,
+        "host": "",
+        "port": 30015,
+        "user": "",
+        "password": "",
+        "schema": ""
+      }
+    }
+  ]
+}
